@@ -1,0 +1,71 @@
+.w-10{
+    width: 100%;
+
+}
+
+.navbar a{
+
+     font-weight: 500; 
+     color: black!important;
+}
+
+.header-top-1st{
+     
+    background: url(./img/top-head-bg.jpg) no-repeat center center; 
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    color: white;        
+}
+
+.banner-top{
+     
+        background: url(./img/slide-one.jpg) no-repeat center center; 
+        background-size: cover;
+        height: 100%;
+        width: 100%;
+        overflow: hidden;       
+}
+
+.service-top{
+     
+    background: url(./img/services-bg.jpg) no-repeat center center; 
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    color: white;        
+}
+
+.text-orange{
+    color: #f16508f5;
+}
+.w-50{
+    width: 15px;
+    
+}
+
+.bg1-orange{
+    background-color: #f16508f5;
+}
+
+.t-color{
+    color:#f16508f5;
+}
+
+.footer-section{
+     
+    background: url(./img/footer-bg.jpg) no-repeat center center; 
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    color: white;        
+}
+
+hr {
+    color: #123455;
+    border:1px solid gray;
+}
+
